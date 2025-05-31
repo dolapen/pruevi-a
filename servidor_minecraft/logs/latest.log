@@ -3491,3 +3491,38 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [31May2025 02:54:00.809] [ForkJoinPool-4-worker-1/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/zimee777
 [31May2025 02:54:00.938] [ForkJoinPool-4-worker-1/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/zimee777
 [31May2025 02:54:22.618] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7012ms or 140 ticks behind
+[31May2025 02:59:23.296] [Server thread/WARN] [tombstone/]: The death event of the player zimee777 was canceled by another mod
+[31May2025 02:59:23.356] [Server thread/INFO] [tombstone/]: The player zimee777 has successfully been saved
+[31May2025 02:59:30.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 was slain by Fire Dragon
+[31May2025 02:59:31.368] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[31May2025 02:59:31.722] [Server thread/INFO] [STDOUT/]: [forge.net.jason13.automessage.event.ModEvents:onPlayerCloned:19]: onPlayerCloned
+[31May2025 02:59:31.722] [Server thread/INFO] [STDOUT/]: [forge.net.jason13.automessage.event.ModEvents:onPlayerCloned:23]: isWasDeath
+[31May2025 02:59:31.723] [Server thread/INFO] [STDOUT/]: [forge.net.jason13.automessage.event.ModEvents:lambda$onPlayerCloned$1:36]: ifPresent1
+[31May2025 02:59:31.723] [Server thread/INFO] [STDOUT/]: [forge.net.jason13.automessage.event.ModEvents:lambda$onPlayerCloned$0:41]: ifPresent2
+[31May2025 03:01:17.426] [Server thread/WARN] [tombstone/]: The death event of the player zimee777 was canceled by another mod
+[31May2025 03:01:17.452] [Server thread/INFO] [tombstone/]: The player zimee777 has successfully been saved
+[31May2025 03:01:23.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 was slain by Fire Dragon
+[31May2025 03:01:24.766] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[31May2025 03:01:25.091] [Server thread/INFO] [STDOUT/]: [forge.net.jason13.automessage.event.ModEvents:onPlayerCloned:19]: onPlayerCloned
+[31May2025 03:01:25.092] [Server thread/INFO] [STDOUT/]: [forge.net.jason13.automessage.event.ModEvents:onPlayerCloned:23]: isWasDeath
+[31May2025 03:01:25.092] [Server thread/INFO] [STDOUT/]: [forge.net.jason13.automessage.event.ModEvents:lambda$onPlayerCloned$1:36]: ifPresent1
+[31May2025 03:01:25.092] [Server thread/INFO] [STDOUT/]: [forge.net.jason13.automessage.event.ModEvents:lambda$onPlayerCloned$0:41]: ifPresent2
+[31May2025 03:02:19.276] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[31May2025 03:02:39.325] [Server thread/WARN] [tombstone/]: The death event of the player zimee777 was canceled by another mod
+[31May2025 03:02:39.350] [Server thread/INFO] [tombstone/]: The player zimee777 has successfully been saved
+[31May2025 03:02:45.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 was turned into KFC by a dragon
+[31May2025 03:02:46.665] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[31May2025 03:02:47.099] [Server thread/INFO] [STDOUT/]: [forge.net.jason13.automessage.event.ModEvents:onPlayerCloned:19]: onPlayerCloned
+[31May2025 03:02:47.099] [Server thread/INFO] [STDOUT/]: [forge.net.jason13.automessage.event.ModEvents:onPlayerCloned:23]: isWasDeath
+[31May2025 03:02:47.100] [Server thread/INFO] [STDOUT/]: [forge.net.jason13.automessage.event.ModEvents:lambda$onPlayerCloned$1:36]: ifPresent1
+[31May2025 03:02:47.100] [Server thread/INFO] [STDOUT/]: [forge.net.jason13.automessage.event.ModEvents:lambda$onPlayerCloned$0:41]: ifPresent2
+[31May2025 03:03:16.224] [Server thread/WARN] [tombstone/]: The death event of the player zimee777 was canceled by another mod
+[31May2025 03:03:16.244] [Server thread/INFO] [tombstone/]: The player zimee777 has successfully been saved
+[31May2025 03:03:22.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 was turned into KFC by a dragon
+[31May2025 03:03:24.064] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[31May2025 03:03:24.816] [Server thread/INFO] [STDOUT/]: [forge.net.jason13.automessage.event.ModEvents:onPlayerCloned:19]: onPlayerCloned
+[31May2025 03:03:24.816] [Server thread/INFO] [STDOUT/]: [forge.net.jason13.automessage.event.ModEvents:onPlayerCloned:23]: isWasDeath
+[31May2025 03:03:24.816] [Server thread/INFO] [STDOUT/]: [forge.net.jason13.automessage.event.ModEvents:lambda$onPlayerCloned$1:36]: ifPresent1
+[31May2025 03:03:24.816] [Server thread/INFO] [STDOUT/]: [forge.net.jason13.automessage.event.ModEvents:lambda$onPlayerCloned$0:41]: ifPresent2
+[31May2025 03:08:09.770] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zimee777 lost connection: Disconnected
+[31May2025 03:08:09.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 left the game
