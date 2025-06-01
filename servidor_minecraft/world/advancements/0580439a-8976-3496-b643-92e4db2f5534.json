@@ -637,6 +637,7 @@
   },
   "regions_unexplored:regions_explored": {
     "criteria": {
+      "pine_taiga": "2025-06-01 03:41:10 +0000",
       "marsh": "2025-05-23 05:50:19 +0000",
       "willow_forest": "2025-05-23 06:45:18 +0000",
       "scorching_caves": "2025-05-23 07:27:52 +0000",
@@ -655,6 +656,7 @@
   },
   "regions_unexplored:pioneer": {
     "criteria": {
+      "pine_taiga": "2025-06-01 03:41:10 +0000",
       "marsh": "2025-05-23 05:50:19 +0000",
       "willow_forest": "2025-05-23 06:45:18 +0000",
       "grassy_beach": "2025-05-23 21:21:06 +0000",
