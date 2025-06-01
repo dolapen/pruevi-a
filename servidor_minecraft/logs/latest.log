@@ -3531,3 +3531,7 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [01Jun2025 04:06:24.865] [Server thread/INFO] [STDOUT/]: [forge.net.jason13.automessage.event.ModEvents:lambda$onPlayerCloned$1:36]: ifPresent1
 [01Jun2025 04:06:24.865] [Server thread/INFO] [STDOUT/]: [forge.net.jason13.automessage.event.ModEvents:lambda$onPlayerCloned$0:41]: ifPresent2
 [01Jun2025 04:08:56.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 has made the advancement [They Grow Up So Fast]
+[01Jun2025 04:27:28.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <zimee777> WWWW+
+[01Jun2025 04:33:38.618] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers clothing  does not exist!
+[01Jun2025 04:33:38.618] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
+[01Jun2025 04:33:38.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 has made the advancement [Settling In]

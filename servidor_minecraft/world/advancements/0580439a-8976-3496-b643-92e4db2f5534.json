@@ -1554,9 +1554,33 @@
     },
     "done": true
   },
+  "mcwbiomesoplenty:recipes/jacaranda_roofs": {
+    "criteria": {
+      "has_planks": "2025-06-01 04:32:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-06-01 03:47:45 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/books": {
+    "criteria": {
+      "has_item": "2025-06-01 04:23:58 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/blueprint": {
+    "criteria": {
+      "has_item": "2025-06-01 04:23:58 +0000"
+    },
+    "done": true
+  },
+  "mcwbiomesoplenty:recipes/jacaranda_planks_roofs": {
+    "criteria": {
+      "has_planks": "2025-06-01 04:32:47 +0000"
     },
     "done": true
   },
