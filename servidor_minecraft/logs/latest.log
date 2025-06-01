@@ -3523,3 +3523,11 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [01Jun2025 03:47:47.831] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2153ms or 43 ticks behind
 [01Jun2025 03:47:50.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 has made the advancement [A Terrible Fortress]
 [01Jun2025 03:48:37.842] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6014ms or 120 ticks behind
+[01Jun2025 04:06:09.596] [Server thread/WARN] [tombstone/]: The death event of the player zimee777 was canceled by another mod
+[01Jun2025 04:06:09.618] [Server thread/INFO] [tombstone/]: The player zimee777 has successfully been saved
+[01Jun2025 04:06:23.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 was blown up by Creeper
+[01Jun2025 04:06:24.864] [Server thread/INFO] [STDOUT/]: [forge.net.jason13.automessage.event.ModEvents:onPlayerCloned:19]: onPlayerCloned
+[01Jun2025 04:06:24.865] [Server thread/INFO] [STDOUT/]: [forge.net.jason13.automessage.event.ModEvents:onPlayerCloned:23]: isWasDeath
+[01Jun2025 04:06:24.865] [Server thread/INFO] [STDOUT/]: [forge.net.jason13.automessage.event.ModEvents:lambda$onPlayerCloned$1:36]: ifPresent1
+[01Jun2025 04:06:24.865] [Server thread/INFO] [STDOUT/]: [forge.net.jason13.automessage.event.ModEvents:lambda$onPlayerCloned$0:41]: ifPresent2
+[01Jun2025 04:08:56.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 has made the advancement [They Grow Up So Fast]
