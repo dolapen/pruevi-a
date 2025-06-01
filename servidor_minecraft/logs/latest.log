@@ -3535,3 +3535,5 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [01Jun2025 04:33:38.618] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers clothing  does not exist!
 [01Jun2025 04:33:38.618] [Server thread/INFO] [forge.net.mca.MCA/]: Villagers hair  does not exist!
 [01Jun2025 04:33:38.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 has made the advancement [Settling In]
+[01Jun2025 04:59:41.748] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: zimee777 lost connection: Disconnected
+[01Jun2025 04:59:41.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 left the game
