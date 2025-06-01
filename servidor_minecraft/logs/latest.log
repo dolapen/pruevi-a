@@ -3510,3 +3510,16 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [01Jun2025 03:39:43.583] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/7518, l='ServerLevel[world]', x=-2417.50, y=71.00, z=4296.50]
 [01Jun2025 03:40:06.524] [Worker-Main-15/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-69, y=63, z=24}
 [01Jun2025 03:42:45.794] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[01Jun2025 03:46:37.652] [Server thread/WARN] [tombstone/]: The death event of the player zimee777 was canceled by another mod
+[01Jun2025 03:46:37.677] [Server thread/INFO] [tombstone/]: The player zimee777 has successfully been saved
+[01Jun2025 03:46:45.318] [Server thread/INFO] [STDOUT/]: [dev.hexnowloading.dungeonnowloading.entity.boss.ChaosSpawnerEntity:m_7380_:193]: []
+[01Jun2025 03:46:52.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 was killed by Evoker using magic
+[01Jun2025 03:46:53.595] [Server thread/INFO] [STDOUT/]: [forge.net.jason13.automessage.event.ModEvents:onPlayerCloned:19]: onPlayerCloned
+[01Jun2025 03:46:53.595] [Server thread/INFO] [STDOUT/]: [forge.net.jason13.automessage.event.ModEvents:onPlayerCloned:23]: isWasDeath
+[01Jun2025 03:46:53.595] [Server thread/INFO] [STDOUT/]: [forge.net.jason13.automessage.event.ModEvents:lambda$onPlayerCloned$1:36]: ifPresent1
+[01Jun2025 03:46:53.596] [Server thread/INFO] [STDOUT/]: [forge.net.jason13.automessage.event.ModEvents:lambda$onPlayerCloned$0:41]: ifPresent2
+[01Jun2025 03:47:45.646] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[01Jun2025 03:47:45.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 has made the advancement [We Need to Go Deeper]
+[01Jun2025 03:47:47.831] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2153ms or 43 ticks behind
+[01Jun2025 03:47:50.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: zimee777 has made the advancement [A Terrible Fortress]
+[01Jun2025 03:48:37.842] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6014ms or 120 ticks behind
